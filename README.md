@@ -1,4 +1,4 @@
-👋 Hi,I’mGiovanni  
+👋 Hi,I’m Giovanni  
 - 👀 I’m interested in trabalhar como desevolvedor  
 - 🌱 I’m currently learning a programa em python e html
 - 💞️ I’m looking to collaborate on  ..
