@@ -1,5 +1,6 @@
-👋 Hi,I’m Giovanni  
-- 👀 I’m interested in trabalhar como desevolvedor  
+# tyn1t
+## Programador Junior 
+#### - Developing an investment page with Flask
 - 🌱 I’m currently learning a programa em python e html
 - 💞️ I’m looking to collaborate on  ..
 - 📫 como entrar em encontrar : anderlansouza71@gmail.com
