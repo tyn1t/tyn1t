@@ -1,5 +1,11 @@
 # tyn1t
-## Programador Junior 
+## Giovanni S
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyn1t&theme=dark&show_icons=true)
+
+## Linguagem 
+  ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
+![html5](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=html5)&nbsp;
 #### - Developing an investment page with Flask
 - 🌱 I’m currently learning a programa em python e html
 - 💞️ I’m looking to collaborate on  ..
