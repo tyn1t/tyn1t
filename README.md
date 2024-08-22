@@ -10,11 +10,6 @@
 
 
 ## Linguagem 
-
-  <div>
-  <a href="https://github.com/">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyn1t&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
     
   ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
   ![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=ffcc66&labelColor=FFFFFF&color=#68da66)
