@@ -10,10 +10,11 @@
 
 
 ## Linguagem 
-    
+
   ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
   ![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=ffcc66&labelColor=FFFFFF&color=#68da66)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
    
   ![.NET C#](https://img.shields.io/badge/.NET-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
