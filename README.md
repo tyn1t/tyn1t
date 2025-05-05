@@ -21,6 +21,11 @@
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+
+## Projects  
+     https://tyn1t.github.io/github-pages/
+     https://tyn1t.github.io/perfil/
+     
 #### - Developing an investment page with Flask
 - 🌱 I’m currently learning a programa em python e html
 - 💞️ I’m looking to collaborate on  ..
