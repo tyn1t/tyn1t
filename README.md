@@ -29,7 +29,7 @@
         https://tyn1t.github.io/perfil/
 
   ###  Simulador de Juros Compostos Online
-        https://calculadora-juros-compostos-eosin.vercel.app/https://calculadora-juros-compostos-eosin.vercel.app/
+        https://calculadora-juros-compostos-eosin.vercel.app/
   ###  Seven Uniformes personalizados.
         https://sevenpersonalize.vercel.app/
   ### Calcular Financeiramente de Moto
