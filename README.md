@@ -29,9 +29,11 @@
         https://tyn1t.github.io/perfil/
 
   ###  Simulador de Juros Compostos Online
-         https://calculadora-juros-compostos-eosin.vercel.app/https://calculadora-juros-compostos-eosin.vercel.app/
+        https://calculadora-juros-compostos-eosin.vercel.app/https://calculadora-juros-compostos-eosin.vercel.app/
   ###  Seven Uniformes personalizados.
-         https://sevenpersonalize.vercel.app/
+        https://sevenpersonalize.vercel.app/
+  ### Calcular Financeiramente de Moto
+        https://finanmoto.vercel.app/
      
 #### - Developing an investment page with Flask
 - 🌱 I’m currently learning a programa em python e html
